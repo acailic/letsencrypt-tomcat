@@ -1,4 +1,4 @@
-FROM tomcat:8.0-jre8
+FROM tomcat:9-jre8-alpine
 
 LABEL maintainer="martynas@atomgraph.com"
 
