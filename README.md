@@ -1,7 +1,7 @@
 # letsencrypt-tomcat9
 Docker image combining Tomcat 9 and LetsEncrypt HTTPS certificates
 
-https://tomcat.apache.org/tomcat-8.0-doc/ssl-howto.html
+https://tomcat.apache.org/tomcat-9.0-doc/ssl-howto.html
 
 https://certbot.eff.org/docs/
 
